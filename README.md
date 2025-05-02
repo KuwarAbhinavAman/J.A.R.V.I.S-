@@ -1,4 +1,5 @@
 # JARVIS AI-Powered Voice Assistant
+WATCH DEMO VIDEO - https://drive.google.com/file/d/1XVadtTllUCM2-9axr-kr_U3xyXub2XBe/view?usp=drivesdk
 
 **JARVIS** is an AI-powered voice assistant project built using **Python**, integrated with a **web-based interface using EEL**. It simulates intelligent assistant functionalities like responding to voice commands, performing tasks, speaking back responses, and managing actions through a dynamic frontend interface.
 
@@ -12,13 +13,7 @@
 - **Modular Design** for easy expansion
 
 ## Demo
-
-![JARVIS Interface Screenshot](https://your-image-link-if-any.com)
-
-> Try commands like:
-> - “What’s the time?”
-> - “Search Python tutorials on YouTube”
-> - “Tell me a joke”
+WATCH DEMO VIDEO - https://drive.google.com/file/d/1XVadtTllUCM2-9axr-kr_U3xyXub2XBe/view?usp=drivesdk
 
 ## Tech Stack
 
