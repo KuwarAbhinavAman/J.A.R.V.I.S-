@@ -24,10 +24,3 @@ WATCH DEMO VIDEO - https://drive.google.com/file/d/1XVadtTllUCM2-9axr-kr_U3xyXub
 - **OpenAI GPT (or any AI/NLP model)** – Optional but supported
 - **HTML/CSS/JavaScript** – Frontend
 
-## Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/KuwarAbhinavAman/JARVIS-AI-Assistant.git
-cd JARVIS-AI-Assistant
